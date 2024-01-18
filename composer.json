@@ -1,0 +1,17 @@
+{
+    "name": "xande/observer_aula",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandre Cardoso",
+            "email": "xandecar@hotmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "*"
+    }
+}
